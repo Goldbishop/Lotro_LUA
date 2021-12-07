@@ -1,4 +1,5 @@
 <a href="index">Home</a> > <a href="turbine">Turbine</a>
+This class provides events for when messages are received through the game. This includes player chat, tells, in game messages, and announcements.
 
 ## Inheritance Hierarchy
 <a href="turbine.object">Turbine.Object</a>
