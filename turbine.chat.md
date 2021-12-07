@@ -7,6 +7,11 @@
 ## Remarks
 To use the Chat Object, you will need to `import "Turbine.Chat"` at the top of the file it will be used.
 
+## Members
+<details><summary>Events</summary>
+* <a href="turbine.chat.received">Received</a>
+</details>
+
 ## Examples
 ** Coming Soon **
 
