@@ -2,6 +2,6 @@
 # `Turbine` Namespace
 
 # Classes
-* [Chat](chat "Turbine.Chat")
+* <a href="turbine.chat">Chat</a>
 
 # Enumerators
