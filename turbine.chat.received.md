@@ -1,4 +1,5 @@
 <a href="index">Home</a> > <a href="turbine">Turbine</a> > <a href="turbine.chat">Chat</a>
+<hr/>
 
 This event is fired whenever a chat message is received.
 
@@ -24,4 +25,5 @@ function Chat:Received(sender, args)
 * <a href="turbine.chat">Chat</a>
 * <a href="turbine">Turbine</a>
 
+<hr/>
 <sub>Copyright &copy; Standing Stone Games, LLC.  All rights reserved.</sub>
