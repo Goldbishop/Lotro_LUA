@@ -20,7 +20,13 @@ function Chat:Received(sender, args)
 </dl>
 
 ## Examples
+<details><summary>Basic</summary>
+
 ** Coming Soon **
+```lua
+```
+</details>
+
 
 ## See Also
 * <a href="turbine.chat">Chat</a>
