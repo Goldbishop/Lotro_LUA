@@ -38,9 +38,9 @@ To use the Chat Object, you will need to `import "Turbine.Chat"` at the top of t
 ```
 </details>
 
+<br/>
 ## See Also
 * <a href="turbine">Turbine</a>
-
 
 <hr/>
 <sub>Copyright &copy; Standing Stone Games, LLC.  All rights reserved.</sub>
