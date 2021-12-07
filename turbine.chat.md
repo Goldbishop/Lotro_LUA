@@ -24,7 +24,13 @@ To use the Chat Object, you will need to `import "Turbine.Chat"` at the top of t
 ```
 </details>
 
+<details><summary>Intermediate</summary>
+
 ** Coming Soon **
+```lua
+```
+</details>
+
 
 ## See Also
 * <a href="turbine">Turbine</a>
