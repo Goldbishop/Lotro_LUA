@@ -13,10 +13,7 @@ This first couple of expansions are added to new bags (4-6) but afterwards the a
 <details>
 <summary>Turbine (<a href="turbine">page</a>)</summary>
 
-<details>
-<summary>Chat</summary>
-
-</details>
+* <a href="turbine.chat">Chat</a>
 
 </details>
 
