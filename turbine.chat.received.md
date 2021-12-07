@@ -34,6 +34,12 @@ function Chat:Received(sender, args)
 ```
 </details>
 
+<details><summary>Complex/Advanced</summary>
+
+** Coming Soon **
+```lua
+```
+</details>
 
 ## See Also
 * <a href="turbine.chat">Chat</a>
