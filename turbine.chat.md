@@ -24,3 +24,4 @@ To use the Chat Object, you will need to `import "Turbine.Chat"` at the top of t
 
 
 <hr/>
+<sub>Copyright &copy; Standing Stone Games, LLC.  All rights reserved.</sub>
