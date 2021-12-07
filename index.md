@@ -1,4 +1,5 @@
-# LOTRO LUA #
+<hr/>
+<sub style="color:red; font-weight:bold">Beta Documentation - Subject to change.<sub>
 
 ## Quirks ##
 <details>
@@ -12,7 +13,18 @@ This first couple of expansions are added to new bags (4-6) but afterwards the a
 ## Packages/Namespaces ##
 <details><summary>Turbine (<a href="turbine">page</a>)</summary>
 
-> <a href="turbine.chat">Chat</a>
+* <a href="turbine.chat">Chat</a>
+* ChatType
+* DataScope
+* Engine
+* Language
+* LotroPluginManager
+* Object
+* Plugin
+* PluginData
+* PluginManager
+* Shell
+* ShellCommand
 
 </details>
 
@@ -32,3 +44,5 @@ This first couple of expansions are added to new bags (4-6) but afterwards the a
 
 </details>
 
+<hr/>
+<sub>Copyright &copy; Standing Stone Games, LLC.  All rights reserved.</sub>
