@@ -1,5 +1,6 @@
 <a href="index">Home</a> > <a href="turbine">Turbine</a> > <a href="turbine.chat">Chat</a>
 <hr/>
+<sub style="color:red; font-weight:bold">Beta Documentation - Subject to change.<sub>
 
 This event is fired whenever a chat message is received.
 
