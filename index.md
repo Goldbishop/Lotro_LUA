@@ -11,7 +11,7 @@ This first couple of expansions are added to new bags (4-6) but afterwards the a
 
 ## Packages/Namespaces ##
 <details>
-<summary>Turbine (<a href="/turbine/index.md">page</a>)</summary>
+<summary>Turbine (<a href="/turbine.html">page</a>)</summary>
 
 <details>
 <summary>Chat</summary>
