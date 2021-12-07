@@ -11,7 +11,12 @@ This first couple of expansions are added to new bags (4-6) but afterwards the a
 
 ## Packages/Namespaces ##
 <details>
-<summary>Turbine</summary>
+<summary>[Turbine](turbine/index.md)</summary>
+
+<details>
+<summary>Chat</summary>
+
+</details>
 
 </details>
 
