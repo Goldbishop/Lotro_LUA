@@ -5,6 +5,8 @@
 * <a href="turbine.chat">Turbine.Chat</a>
 
 ## Remarks
+To use the Chat Object, you will need to `import "Turbine.Chat"` at the top of the file it will be used.
+
 
 ## See Also
 * <a href="turbine">Turbine</a>
