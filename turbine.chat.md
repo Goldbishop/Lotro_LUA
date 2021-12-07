@@ -1,4 +1,5 @@
 <a href="index">Home</a> > <a href="turbine">Turbine</a>
+<hr/>
 <sub style="color:red; font-weight:bold">Beta Documentation - Subject to change.<sub>
 
 This class provides events for when messages are received through the game. This includes player chat, tells, in game messages, and announcements.
@@ -21,3 +22,5 @@ To use the Chat Object, you will need to `import "Turbine.Chat"` at the top of t
 ## See Also
 * <a href="turbine">Turbine</a>
 
+
+<hr/>
