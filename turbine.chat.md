@@ -7,6 +7,8 @@
 ## Remarks
 To use the Chat Object, you will need to `import "Turbine.Chat"` at the top of the file it will be used.
 
+## Examples
+** Coming Soon **
 
 ## See Also
 * <a href="turbine">Turbine</a>
