@@ -11,24 +11,24 @@ The Turbine package provides access to core game functionality.
 <details>
 <summary>Classes</summary>
 <ul>
-<li><a href="turbine.chat">Chat</a></li>
-<li>Engine</li>
-<li>LotroPluginManager</li>
-<li>Object</li>
-<li>Plugin</li>
-<li>PluginData</li>
-<li>PluginManager</li>
-<li>Shell</li>
-<li>ShellCommand</li> 
+	<li><a href="turbine.chat">Chat</a></li>
+	<li>Engine</li>
+	<li>LotroPluginManager</li>
+	<li>Object</li>
+	<li>Plugin</li>
+	<li>PluginData</li>
+	<li>PluginManager</li>
+	<li>Shell</li>
+	<li>ShellCommand</li> 
 </ul>
 </details>
 
 <details>
 <summary>Enumerators</summary>
 <ul>
-<li>ChatType</li>
-<li>DataScope</li>
-<li>Language</li>
+	<li>ChatType</li>
+	<li>DataScope</li>
+	<li>Language</li>
 </ul>
 </details>
 
