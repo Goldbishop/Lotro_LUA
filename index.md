@@ -12,7 +12,7 @@ This first couple of expansions are added to new bags (4-6) but afterwards the a
 
 ## Packages/Namespaces ##
 <details><summary>Turbine (<a href="turbine">page</a>)</summary>
-<ul>
+<ul style="column-count:4;">
 	<li><a href="turbine.chat">Chat</a></li>
 	<li>ChatType</li>
 	<li>DataScope</li>
@@ -29,7 +29,7 @@ This first couple of expansions are added to new bags (4-6) but afterwards the a
 </details>
 
 <details><summary>Turbine.Gameplay</summary>
-<ul>
+<ul style="column-count:4;">
 	<li>ActiveSkill</li>
 	<li>Actor</li>
 	<li>Alignment</li>
@@ -83,7 +83,7 @@ This first couple of expansions are added to new bags (4-6) but afterwards the a
 </details>
 
 <details><summary>Turbine.Gameplay.Attributes</summary>
-<ul>
+<ul style="column-count:3;">
 	<li>BeorningAttributes</li>
 	<li>BlackArrowAttributes</li>
 	<li>BurglarAttributes</li>
