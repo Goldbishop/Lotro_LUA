@@ -11,7 +11,8 @@ This first couple of expansions are added to new bags (4-6) but afterwards the a
 </details>
 
 ## Packages/Namespaces ##
-<details><summary>Turbine (<a href="turbine">page</a>)</summary>
+<details>
+<summary>Turbine (<a href="turbine">page</a>)</summary>
 <ul style="column-count:4;">
 	<li><a href="turbine.chat">Chat</a></li>
 	<li>ChatType</li>
@@ -28,7 +29,8 @@ This first couple of expansions are added to new bags (4-6) but afterwards the a
 </ul>
 </details>
 
-<details><summary>Turbine.Gameplay</summary>
+<details>
+<summary>Turbine.Gameplay</summary>
 <ul style="column-count:4;">
 	<li>ActiveSkill</li>
 	<li>Actor</li>
@@ -82,7 +84,8 @@ This first couple of expansions are added to new bags (4-6) but afterwards the a
 </ul>
 </details>
 
-<details><summary>Turbine.Gameplay.Attributes</summary>
+<details>
+<summary>Turbine.Gameplay.Attributes</summary>
 <ul style="column-count:3;">
 	<li>BeorningAttributes</li>
 	<li>BlackArrowAttributes</li>
