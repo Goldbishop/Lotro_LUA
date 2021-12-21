@@ -123,8 +123,37 @@ This first couple of expansions are added to new bags (4-6) but afterwards the a
 </ul>
 </details>
 
-<details><summary>Turbine.UI</summary>
-
+<details>
+<summary>Turbine.UI</summary>
+<ul>
+	<li>BlendMode</li>
+	<li>Button</li>
+	<li>CheckBox</li>
+	<li>Color</li>
+	<li>ContentAlignment</li>
+	<li>ContextMenu</li>
+	<li>Control</li>
+	<li>ControlList</li>
+	<li>Display</li>
+	<li>DragDropInfo</li>
+	<li>FontStyle</li>
+	<li>Graphic</li>
+	<li>HorizontalLayout</li>
+	<li>Lable</li>
+	<li>ListBox</li>
+	<li>MenuItem</li>
+	<li>MenuItemList</li>
+	<li>MouseButton</li>
+	<li>Orientation</li>
+	<li>ScrollableControl</li>
+	<li>ScrollBar</li>
+	<li>TextBox</li>
+	<li>TreeNode</li>
+	<li>TreeNodeList</li>
+	<li>TreeView</li>
+	<li>VerticalLayout</li>
+	<li>Window</li>
+<ul>
 </details>
 
 <details><summary>Turbine.UI.Lotro</summary>
