@@ -12,9 +12,10 @@ This first couple of expansions are added to new bags (4-6) but afterwards the a
 
 ## Packages/Namespaces ##
 <details><summary>Turbine (<a href="turbine">page</a>)</summary>
-<p>
-	- <a href="turbine.chat">Chat</a>
-	- ChatType
+<p><ul>
+<li><a href="turbine.chat">Chat</a></li>
+<li>ChatType</li>
+</ul>
 - DataScope
 - Engine
 - Language
