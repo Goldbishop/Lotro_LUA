@@ -12,21 +12,19 @@ This first couple of expansions are added to new bags (4-6) but afterwards the a
 
 ## Packages/Namespaces ##
 <details><summary>Turbine (<a href="turbine">page</a>)</summary>
-<p><ul>
-<li><a href="turbine.chat">Chat</a></li>
-<li>ChatType</li>
+<ul>
+	<li><a href="turbine.chat">Chat</a></li>
+	<li>ChatType</li>
+	<li>DataScope</li>
+	<li>Engine</li>
+	<li>Language</li>
+	<li>LotroPluginManager</li>
+	<li>Object</li>
+	<li>Plugin</li>
+	<li>PluginData</li>
+	<li>PluginManager</li>
+	<li>Shell</li>
 </ul>
-- DataScope
-- Engine
-- Language
-- LotroPluginManager
-- Object
-- Plugin
-- PluginData
-- PluginManager
-- Shell
-- ShellCommand
-</p>
 </details>
 
 <details><summary>Turbine.Gameplay</summary>
