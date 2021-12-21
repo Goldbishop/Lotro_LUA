@@ -156,8 +156,31 @@ This first couple of expansions are added to new bags (4-6) but afterwards the a
 <ul>
 </details>
 
-<details><summary>Turbine.UI.Lotro</summary>
-
+<details>
+<summary>Turbine.UI.Lotro</summary>
+<ul>
+	<li>Action</li>
+	<li>BaseItemControl</li>
+	<li>Button</li>
+	<li>CheckBox</li>
+	<li>DragDropInfo</li>
+	<li>EffectDisplay</li>
+	<li>EntityControl</li>
+	<li>EquipmentSlot</li>
+	<li>Font</li>
+	<li>GoldButton</li>
+	<li>GoldWindow</li>
+	<li>ItemControl</li>
+	<li>ItemInfoControl</li>
+	<li>LotroUI</li>
+	<li>LotroUIElement</li>
+	<li>Quickslot</li>
+	<li>ScrollBar</li>
+	<li>Shortcut</li>
+	<li>ShortcutType</li>
+	<li>TextBox</li>
+	<li>Window</li>
+</ul>
 </details>
 
 <hr/>
