@@ -12,6 +12,7 @@ This first couple of expansions are added to new bags (4-6) but afterwards the a
 
 ## Packages/Namespaces ##
 <details><summary>Turbine (<a href="turbine">page</a>)</summary>
+<p>
 - <a href="turbine.chat">Chat</a>
 - ChatType
 - DataScope
@@ -24,11 +25,11 @@ This first couple of expansions are added to new bags (4-6) but afterwards the a
 - PluginManager
 - Shell
 - ShellCommand
-
+</p>
 </details>
 
 <details><summary>Turbine.Gameplay</summary>
-
+<p>
 - ActiveSkill
 - Actor
 - Alignment
@@ -78,6 +79,7 @@ This first couple of expansions are added to new bags (4-6) but afterwards the a
 - Vocation
 - Wallet
 - WalletItem
+</p>
 </details>
 
 <details><summary>Turbine.Gameplay.Attributes</summary>
