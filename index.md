@@ -84,39 +84,39 @@ This first couple of expansions are added to new bags (4-6) but afterwards the a
 
 <details><summary>Turbine.Gameplay.Attributes</summary>
 <ul>
-<li>BeorningAttributes</li>
-<li>BlackArrowAttributes</li>
-<li>BurglarAttributes</li>
-<li>BurglarStance</li>
-<li>CaptainAttributes</li>
-<li>ChampionAttributes</li>
-<li>ChampionStance</li>
-<li>ChickenAttributes</li>
-<li>DefilerAttributes</li>
-<li>DwarfAttributes</li>
-<li>ElfAttributes</li>
-<li>FreePeopleAttributes</li>
-<li>GuardianAttributes</li>
-<li>GuardianStance</li>
-<li>HighElfAttributes</li>
-<li>HobbitAttributes</li>
-<li>HunterAttributes</li>
-<li>HunterStance</li>
-<li>LoreMasterAttributes</li>
-<li>ManAttributes</li>
-<li>MinstrelAttributes</li>
-<li>MinstrelStance</li>
-<li>MonsterPlayerAttributes</li>
-<li>RangerAttributes</li>
-<li>ReaverAttributes</li>
-<li>RuneKeeperAttributes</li>
-<li>StalkerAttributes</li>
-<li>TrollAttributes</li>
-<li>WardenAttributes</li>
-<li>WardenGambit</li>
-<li>WardenStance</li>
-<li>WarLeaderAttributes</li>
-<li>WeaverAttributes</li>
+	<li>BeorningAttributes</li>
+	<li>BlackArrowAttributes</li>
+	<li>BurglarAttributes</li>
+	<li>BurglarStance</li>
+	<li>CaptainAttributes</li>
+	<li>ChampionAttributes</li>
+	<li>ChampionStance</li>
+	<li>ChickenAttributes</li>
+	<li>DefilerAttributes</li>
+	<li>DwarfAttributes</li>
+	<li>ElfAttributes</li>
+	<li>FreePeopleAttributes</li>
+	<li>GuardianAttributes</li>
+	<li>GuardianStance</li>
+	<li>HighElfAttributes</li>
+	<li>HobbitAttributes</li>
+	<li>HunterAttributes</li>
+	<li>HunterStance</li>
+	<li>LoreMasterAttributes</li>
+	<li>ManAttributes</li>
+	<li>MinstrelAttributes</li>
+	<li>MinstrelStance</li>
+	<li>MonsterPlayerAttributes</li>
+	<li>RangerAttributes</li>
+	<li>ReaverAttributes</li>
+	<li>RuneKeeperAttributes</li>
+	<li>StalkerAttributes</li>
+	<li>TrollAttributes</li>
+	<li>WardenAttributes</li>
+	<li>WardenGambit</li>
+	<li>WardenStance</li>
+	<li>WarLeaderAttributes</li>
+	<li>WeaverAttributes</li>
 </ul>
 </details>
 
