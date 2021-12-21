@@ -10,7 +10,7 @@ The Turbine package provides access to core game functionality.
 
 <details>
 <summary>Classes</summary>
-<ul>
+<ul style="column-count:3">
 	<li><a href="turbine.chat">Chat</a></li>
 	<li>Engine</li>
 	<li>LotroPluginManager</li>
