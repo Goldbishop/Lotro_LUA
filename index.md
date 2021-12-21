@@ -28,57 +28,57 @@ This first couple of expansions are added to new bags (4-6) but afterwards the a
 </details>
 
 <details><summary>Turbine.Gameplay</summary>
-<p>
-- ActiveSkill
-- Actor
-- Alignment
-- Attributes
-- Backpack
-- Bank
-- BasicMount
-- Class
-- ClassAttributes
-- CombatMount
-- CraftTier
-- Effect
-- EffectCategory
-- EffectList
-- Entity
-- EntityReference
-- Equipment
-- EquipmentSlot
-- GambitSkill
-- GambitSkillInfo
-- Item
-- ItemCategory
-- ItemDurability
-- ItemInfo
-- ItemQuality
-- ItemWearState
-- LocalPlayer
-- Mount
-- Party
-- PartyMember
-- Pet
-- Player
-- Profession
-- ProfessionInfo
-- PropertyHandler
-- Race
-- ReadyState
-- Recipe
-- RecipeIngredient
-- SharedStorage
-- Skill
-- SkillInfo
-- SkillList
-- SkillType
-- UntrainedSkill
-- Vault
-- Vocation
-- Wallet
-- WalletItem
-</p>
+<ul>
+<li>ActiveSkill</li>
+<li>Actor</li>
+<li>Alignment</li>
+<li>Attributes</li>
+<li>Backpack</li>
+<li>Bank</li>
+<li>BasicMount</li>
+<li>Class</li>
+<li>ClassAttributes</li>
+<li>CombatMount</li>
+<li>CraftTier</li>
+<li>Effect</li>
+<li>EffectCategory</li>
+<li>EffectList</li>
+<li>Entity</li>
+<li>EntityReference</li>
+<li>Equipment</li>
+<li>EquipmentSlot</li>
+<li>GambitSkill</li>
+<li>GambitSkillInfo</li>
+<li>Item</li>
+<li>ItemCategory</li>
+<li>ItemDurability</li>
+<li>ItemInfo</li>
+<li>ItemQuality</li>
+<li>ItemWearState</li>
+<li>LocalPlayer</li>
+<li>Mount</li>
+<li>Party</li>
+<li>PartyMember</li>
+<li>Pet</li>
+<li>Player</li>
+<li>Profession</li>
+<li>ProfessionInfo</li>
+<li>PropertyHandler</li>
+<li>Race</li>
+<li>ReadyState</li>
+<li>Recipe</li>
+<li>RecipeIngredient</li>
+<li>SharedStorage</li>
+<li>Skill</li>
+<li>SkillInfo</li>
+<li>SkillList</li>
+<li>SkillType</li>
+<li>UntrainedSkill</li>
+<li>Vault</li>
+<li>Vocation</li>
+<li>Wallet</li>
+<li>WalletItem</li>
+</ul>
 </details>
 
 <details><summary>Turbine.Gameplay.Attributes</summary>
