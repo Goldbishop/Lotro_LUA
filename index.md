@@ -153,7 +153,7 @@ This first couple of expansions are added to new bags (4-6) but afterwards the a
 	<li>TreeView</li>
 	<li>VerticalLayout</li>
 	<li>Window</li>
-<ul>
+</ul>
 </details>
 
 <details>
