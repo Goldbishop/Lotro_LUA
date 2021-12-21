@@ -8,6 +8,7 @@ The core Turbine API package.
 ## Remarks
 The Turbine package provides access to core game functionality.
 
+<div style="column-count:2">
 <details>
 <summary>Classes</summary>
 <ul>
@@ -31,6 +32,6 @@ The Turbine package provides access to core game functionality.
 	<li>Language</li>
 </ul>
 </details>
-
+</div>
 <hr/>
 <sub>Copyright &copy; Standing Stone Games, LLC.  All rights reserved.</sub>
