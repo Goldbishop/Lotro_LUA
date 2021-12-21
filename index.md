@@ -125,7 +125,7 @@ This first couple of expansions are added to new bags (4-6) but afterwards the a
 
 <details>
 <summary>Turbine.UI</summary>
-<ul>
+<ul style="column-count:4;">
 	<li>BlendMode</li>
 	<li>Button</li>
 	<li>CheckBox</li>
@@ -158,7 +158,7 @@ This first couple of expansions are added to new bags (4-6) but afterwards the a
 
 <details>
 <summary>Turbine.UI.Lotro</summary>
-<ul>
+<ul style="column-count:4;">
 	<li>Action</li>
 	<li>BaseItemControl</li>
 	<li>Button</li>
