@@ -12,8 +12,11 @@ This class provides events for when messages are received through the game. This
 To use the Chat Object, you will need to `import "Turbine.Chat"` at the top of the file it will be used.
 
 ## Members
-<details><summary>Events</summary>
-* <a href="turbine.chat.received">Received</a>
+<details>
+<summary>Events</summary>
+<ul>
+	<li><a href="turbine.chat.received">Received</a></li>
+</ul>
 </details>
 
 ## Examples
