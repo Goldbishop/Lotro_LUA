@@ -8,22 +8,29 @@ The core Turbine API package.
 ## Remarks
 The Turbine package provides access to core game functionality.
 
-## Classes
-* <a href="turbine.chat">Chat</a>
-* Engine
-* LotroPluginManager
-* Object
-* Plugin
-* PluginData
-* PluginManager
-* Shell
-* ShellCommand 
+<details>
+<summary>Classes</summary>
+<ul>
+<li><a href="turbine.chat">Chat</a></li>
+<li>Engine</li>
+<li>LotroPluginManager</li>
+<li>Object</li>
+<li>Plugin</li>
+<li>PluginData</li>
+<li>PluginManager</li>
+<li>Shell</li>
+<li>ShellCommand</li> 
+</ul>
+</details>
 
-
-## Enumerators
-* ChatType
-* DataScope
-* Language
+<details>
+<summary>Enumerators</summary>
+<ul>
+<li>ChatType</li>
+<li>DataScope</li>
+<li>Language</li>
+</ul>
+</details>
 
 <hr/>
 <sub>Copyright &copy; Standing Stone Games, LLC.  All rights reserved.</sub>
