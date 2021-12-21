@@ -24,6 +24,7 @@ This first couple of expansions are added to new bags (4-6) but afterwards the a
 	<li>PluginData</li>
 	<li>PluginManager</li>
 	<li>Shell</li>
+	<li>ShellCommand</li>
 </ul>
 </details>
 
