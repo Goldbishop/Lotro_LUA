@@ -12,73 +12,72 @@ This first couple of expansions are added to new bags (4-6) but afterwards the a
 
 ## Packages/Namespaces ##
 <details><summary>Turbine (<a href="turbine">page</a>)</summary>
-
-* <a href="turbine.chat">Chat</a>
-* ChatType
-* DataScope
-* Engine
-* Language
-* LotroPluginManager
-* Object
-* Plugin
-* PluginData
-* PluginManager
-* Shell
-* ShellCommand
+- <a href="turbine.chat">Chat</a>
+- ChatType
+- DataScope
+- Engine
+- Language
+- LotroPluginManager
+- Object
+- Plugin
+- PluginData
+- PluginManager
+- Shell
+- ShellCommand
 
 </details>
 
 <details><summary>Turbine.Gameplay</summary>
 
-* ActiveSkill
-* Actor
-* Alignment
-* Attributes
-* Backpack
-* Bank
-* BasicMount
-* Class
-* ClassAttributes
-* CombatMount
-* CraftTier
-* Effect
-* EffectCategory
-* EffectList
-* Entity
-* EntityReference
-* Equipment
-* EquipmentSlot
-* GambitSkill
-* GambitSkillInfo
-* Item
-* ItemCategory
-* ItemDurability
-* ItemInfo
-* ItemQuality
-* ItemWearState
-* LocalPlayer
-* Mount
-* Party
-* PartyMember
-* Pet
-* Player
-* Profession
-* ProfessionInfo
-* PropertyHandler
-* Race
-* ReadyState
-* Recipe
-* RecipeIngredient
-* SharedStorage
-* Skill
-* SkillInfo
-* SkillList
-* SkillType
-* UntrainedSkill
-* Vault
-* Vocation
-* Wallet
-* WalletItem
+- ActiveSkill
+- Actor
+- Alignment
+- Attributes
+- Backpack
+- Bank
+- BasicMount
+- Class
+- ClassAttributes
+- CombatMount
+- CraftTier
+- Effect
+- EffectCategory
+- EffectList
+- Entity
+- EntityReference
+- Equipment
+- EquipmentSlot
+- GambitSkill
+- GambitSkillInfo
+- Item
+- ItemCategory
+- ItemDurability
+- ItemInfo
+- ItemQuality
+- ItemWearState
+- LocalPlayer
+- Mount
+- Party
+- PartyMember
+- Pet
+- Player
+- Profession
+- ProfessionInfo
+- PropertyHandler
+- Race
+- ReadyState
+- Recipe
+- RecipeIngredient
+- SharedStorage
+- Skill
+- SkillInfo
+- SkillList
+- SkillType
+- UntrainedSkill
+- Vault
+- Vocation
+- Wallet
+- WalletItem
 </details>
 
 <details><summary>Turbine.Gameplay.Attributes</summary>
