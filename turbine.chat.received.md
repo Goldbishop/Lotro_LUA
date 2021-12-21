@@ -14,9 +14,9 @@ function Chat:Received(sender, args)
 ### Parameters
 <dl>
 <dt>sender</dt>
-<dd>Type: table - The event sender</dd>
+<dd>The event sender; Type: table</dd>
 <dt>args</dt>
-<dd>Type: table - The event arguments</dd>
+<dd>The event arguments; Type: table</dd>
 </dl>
 
 ## Examples
