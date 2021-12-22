@@ -24,7 +24,7 @@ This UI package provides controls that look and feel like the same controls used
 	<li>ItemInfoControl</li> 
 	<li>LotroUI</li> 
 	<li>LotroUIElement</li> 
-	<li>Quickslot</li> 
+	<li><a href="turbine.ui.lotro.quickslot">Quickslot</a></li> 
 	<li>ScrollBar</li> 
 	<li>Shortcut</li> 
 	<li>TextBox</li> 
