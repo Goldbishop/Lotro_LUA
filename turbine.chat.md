@@ -1,4 +1,6 @@
 <a href="index">Home</a> > <a href="turbine">Turbine</a>
+
+<h1>Chat Class</h1>
 <hr/>
 <sub style="color:red; font-weight:bold">Beta Documentation - Subject to change.</sub>
 
