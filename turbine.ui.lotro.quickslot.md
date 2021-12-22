@@ -128,7 +128,6 @@ To use the Chat Object, you will need to `import "Turbine.UI.Lotro"` at the top 
 ```lua
 ```
 </details>
-
 <br/>
 
 ## See Also
