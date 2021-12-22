@@ -48,8 +48,8 @@ quickslot:SetShortcut( Turbine.UI.Shortcut( Turbine.UI.Lotro.ShortcutType.Undefi
 ```lua
 ```
 </details>
-
 <br/>
+
 ## See Also
 * <a href="turbine.ui.lotro.quickslot">Quickslot</a>
 * <a href="turbine.ui.lotro">Turbine.UI.Lotro</a>
