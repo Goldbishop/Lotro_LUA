@@ -1,1 +1,4 @@
+title: LoTRO LUA Documentation
+description: This is a version controlled documentation for how to use the LUA-Plugin Framework implemented into LoTRO.
 theme: jekyll-theme-hacker
+markdown: kramdown
