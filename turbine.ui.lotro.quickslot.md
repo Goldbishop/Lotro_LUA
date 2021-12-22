@@ -15,6 +15,7 @@ To use the Chat Object, you will need to `import "Turbine.UI.Lotro"` at the top 
 ## Members
 <details>
 <summary>Methods</summary>
+
 | Name | Inherited | Description |
 | --- | --- |
 | Focus | <a href="turbine.ui.control">Control</a> | Request that the control take focus. |
@@ -23,6 +24,7 @@ To use the Chat Object, you will need to `import "Turbine.UI.Lotro"` at the top 
 
 <details>
 <summary>Events</summary>
+
 | Name | Inherited | Description |
 | --- | --- |
 | <a href="turbine.ui.lotro.quickslot.dragdrop">DragDrop</a> | | Event fired when a drag drop operation is completed. |
