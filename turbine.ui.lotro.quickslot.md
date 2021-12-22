@@ -66,7 +66,7 @@ To use the Chat Object, you will need to `import "Turbine.UI.Lotro"` at the top 
 | SetShortcut | | Sets the shortcut on the quickslot. |
 | SetSize | <a href="turbine.ui.control">Control</a> | Sets the size of the control. |
 | SetTop | <a href="turbine.ui.control">Control</a> | Sets the top coordinate of the window. |
-| SetUseOnRightClick | | Sets whether right clicks will activate the quickslot. |
+| <a href="turbine.ui.lotro.quickslot.setuseonrightclick">SetUseOnRightClick</a> | | Sets whether right clicks will activate the quickslot. |
 | SetVisible | <a href="turbine.ui.control">Control</a> | Sets the visible flag of a control. |
 | SetWantsKeyEvents | <a href="turbine.ui.control">Control</a> | Sets a flag indicating if the control wants to receive key events. |
 | SetWantsUpdates | <a href="turbine.ui.control">Control</a> | Sets the flag indicating if the control wants the receive update notifications. |
