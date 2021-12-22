@@ -13,6 +13,7 @@ Event fired when a drag drop operation is completed.
 ```lua
 function Quickslot:DragDrop(sender, args)
 ```
+
 ### Parameters
 <dl>
 <dt>sender</dt>
@@ -42,8 +43,8 @@ function Quickslot:DragDrop(sender, args)
 ```lua
 ```
 </details>
-
 <br/>
+
 ## See Also
 * <a href="turbine.ui.lotro.quickslot">Quickslot</a>
 * <a href="turbine.ui.lotro">Turbine.UI.Lotro</a>
