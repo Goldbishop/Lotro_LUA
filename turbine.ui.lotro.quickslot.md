@@ -15,7 +15,7 @@ To use the Chat Object, you will need to `import "Turbine.UI.Lotro"` at the top 
 ## Members
 <details>
 <summary>Methods</summary>
-
+Test
 | Name | Inherited | Description |
 | --- | ---: | --- |
 | Focus | <a href="turbine.ui.control">Control</a> | Request that the control take focus. |
