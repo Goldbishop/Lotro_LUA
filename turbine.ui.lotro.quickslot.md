@@ -33,7 +33,7 @@ To use the Chat Object, you will need to `import "Turbine.UI.Lotro"` at the top 
 | GetOpacity | <a href="turbine.ui.control">Control</a> | Gets the opacity of the window. |
 | GetParent | <a href="turbine.ui.control">Control</a> | Gets the parent of the control. |
 | GetPosition | <a href="turbine.ui.control">Control</a> | Gets the position of the control. |
-| GetShortcut | | Gets the shortcut on the quickslot. |
+| <a href="turbine.ui.lotro.quickslot.getshortcut">GetShortcut</a> | | Gets the shortcut on the quickslot. |
 | GetSize | <a href="turbine.ui.control">Control</a> | Gets the size of the control. |
 | GetTop | <a href="turbine.ui.control">Control</a> | Gets the top coordinate of the window. |
 | GetWantsKeyEvents | <a href="turbine.ui.control">Control</a> | Gets a flag indicating if the control wants to receive key events. |
