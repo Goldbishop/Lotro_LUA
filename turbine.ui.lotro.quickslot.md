@@ -47,7 +47,7 @@ To use the Chat Object, you will need to `import "Turbine.UI.Lotro"` at the top 
 | IsEnabled | <a href="turbine.ui.control">Control</a> | Gets a flag indicating if the control is enabled. |
 | IsMouseVisible | <a href="turbine.ui.control">Control</a> | Gets a flag indicating if the mouse will see this control. |
 | IsShiftKeyDown | <a href="turbine.ui.control">Control</a> | Test if the shift key is pressed. |
-| IsUseOnRightClick | | Gets whether right clicks will activate the quickslot. |
+| <a href="turbine.ui.lotro.quickslot.isuseonrightclick">IsUseOnRightClick</a> | | Gets whether right clicks will activate the quickslot. |
 | IsVisible | <a href="turbine.ui.control">Control</a> | Gets a flag indicating if the control is visible. |
 | PointToClient | <a href="turbine.ui.control">Control</a> | Converts a coordinate from control space to screen space. |
 | PointToScreen | <a href="turbine.ui.control">Control</a> | Converts a coordinate from control space to screen space. |
