@@ -174,7 +174,7 @@ This first couple of expansions are added to new bags (4-6) but afterwards the a
 	<li>ItemInfoControl</li>
 	<li>LotroUI</li>
 	<li>LotroUIElement</li>
-	<li>Quickslot</li>
+	<li><a href="turbine.ui.lotro.quickslot">Quickslot</a></li> 
 	<li>ScrollBar</li>
 	<li>Shortcut</li>
 	<li>ShortcutType</li>
