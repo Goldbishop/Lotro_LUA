@@ -47,7 +47,7 @@ To use the Chat Object, you will need to `import "Turbine.UI.Lotro"` at the top 
 | MouseUp | <a href="turbine.ui.control">Control</a> | Event fired when a mouse button is released. |
 | MouseWheel | <a href="turbine.ui.control">Control</a> | Event fired when a mouse wheel moves. |
 | PositionChanged | <a href="turbine.ui.control">Control</a> | Event fired when the position of the control changes. |
-| ShortcutChanged | | Event fired when the shortcut changes. |
+| <a href="turbine.ui.lotro.quickslot.shortcutchanged">ShortcutChanged</a> | | Event fired when the shortcut changes. |
 | SizeChanged | <a href="turbine.ui.control">Control</a> | Event fired when the size of the control changes. |
 | Update | <a href="turbine.ui.control">Control</a> | Event fired every frame when WantsUpdates is enabled. |
 | VisibleChanged | <a href="turbine.ui.control">Control</a> | Event fired when the visible state of the control changes. | 
