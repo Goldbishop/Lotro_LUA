@@ -13,6 +13,7 @@ Sets the shortcut on the quickslot
 ```lua
 function Quickslot:SetShortcut(value)
 ```
+
 ### Parameters
 <dl>
 <dt>value</dt>
@@ -23,6 +24,7 @@ function Quickslot:SetShortcut(value)
 ## Examples
 <details><summary>Basic</summary>
 Setting a new shortcut
+
 ```lua
 quickslot = Turbine.UI.Lotro.Quickslot();
 quickslot:SetParent( myWindow );
@@ -30,6 +32,7 @@ quickslot:SetPosition( 50, 50 );
 quickslot:SetSize( 38, 38 );
 quickslot:SetShortcut( Turbine.UI.Shortcut( Turbine.UI.Lotro.ShortcutType.Undefined, "") );
 ```
+
 </details>
 
 <details><summary>Intermediate</summary>
