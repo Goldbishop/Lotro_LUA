@@ -28,6 +28,7 @@ function Quickslot:DragDrop(sender, args)
 ** Coming Soon **
 ```lua
 ```
+
 </details>
 
 <details><summary>Intermediate</summary>
@@ -35,6 +36,7 @@ function Quickslot:DragDrop(sender, args)
 ** Coming Soon **
 ```lua
 ```
+
 </details>
 
 <details><summary>Complex/Advanced</summary>
@@ -42,6 +44,7 @@ function Quickslot:DragDrop(sender, args)
 ** Coming Soon **
 ```lua
 ```
+
 </details>
 <br/>
 
