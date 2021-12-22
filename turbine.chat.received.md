@@ -1,4 +1,6 @@
 <a href="index">Home</a> > <a href="turbine">Turbine</a> > <a href="turbine.chat">Chat</a>
+
+<h1>Received Event</h1>
 <hr/>
 <sub style="color:red; font-weight:bold">Beta Documentation - Subject to change.</sub>
 
