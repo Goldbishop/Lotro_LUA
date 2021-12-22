@@ -1,6 +1,6 @@
 <a href="index">Home</a> > <a href="turbine.ui.lotro">Turbine.UI.Lotro</a>
 <hr/>
-<sub style="color:red; font-weight:bold">Beta Documentation - Subject to change.<sub>
+<sub style="color:red; font-weight:bold">Beta Documentation - Subject to change.</sub>
 
 A quickslot control contains all the functionality to create custom quickslots that can represent skills, items, alias, etc.
 
@@ -15,7 +15,7 @@ To use the Chat Object, you will need to `import "Turbine.UI.Lotro"` at the top 
 ## Members
 <details>
 <summary>Methods</summary>
-Test
+	
 | Name | Inherited | Description |
 | --- | ---: | --- |
 | Focus | <a href="turbine.ui.control">Control</a> | Request that the control take focus. |
