@@ -55,7 +55,7 @@ To use the Chat Object, you will need to `import "Turbine.UI.Lotro"` at the top 
 
 <br/>
 ## See Also
-* <a href="turbine.ui.lotro">Turbine.UI.Lotro</a>
+- <a href="turbine.ui.lotro">Turbine.UI.Lotro</a>
 
 <hr/>
 <sub>Copyright &copy; Standing Stone Games, LLC.  All rights reserved.</sub>
