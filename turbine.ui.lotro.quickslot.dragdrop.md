@@ -1,4 +1,6 @@
 <a href="index">Home</a> > <a href="turbine.ui.lotro">Turbine.UI.Lotro</a> > <a href="turbine.ui.lotro.quickslot">Quickslot</a>
+
+<h1>DragDrop Event</h1>
 <hr/>
 <sub style="color:red; font-weight:bold">Beta Documentation - Subject to change.</sub>
 
