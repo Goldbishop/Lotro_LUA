@@ -1,8 +1,9 @@
 <a href="index">Home</a>
+
+<h1>Turbine Package</h1>
 <hr/>
 <sub style="color:red; font-weight:bold">Beta Documentation - Subject to change.</sub>
 
-# `Turbine` Namespace
 The core Turbine API package.
 
 ## Remarks
