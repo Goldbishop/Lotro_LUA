@@ -157,7 +157,7 @@ This first couple of expansions are added to new bags (4-6) but afterwards the a
 </details>
 
 <details>
-<summary>Turbine.UI.Lotro</summary>
+<summary>Turbine.UI.Lotro (<a href="turbine.ui.lotro">page</a>)</summary>
 <ul style="column-count:4;">
 	<li>Action</li>
 	<li>BaseItemControl</li>
