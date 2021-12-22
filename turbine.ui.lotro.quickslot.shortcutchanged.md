@@ -43,8 +43,8 @@ function Quickslot:ShortcutChanged(sender, args)
 ```lua
 ```
 </details>
-
 <br/>
+
 ## See Also
 * <a href="turbine.ui.lotro.quickslot">Quickslot</a>
 * <a href="turbine.ui.lotro">Turbine.UI.Lotro</a>
