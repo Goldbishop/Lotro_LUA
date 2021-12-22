@@ -21,6 +21,57 @@ To use the Chat Object, you will need to `import "Turbine.UI.Lotro"` at the top 
 | Name | Inherited | Description |
 | --- | ---: | --- |
 | Focus | <a href="turbine.ui.control">Control</a> | Request that the control take focus. |
+| GetAllowDrop | <a href="turbine.ui.control">Control</a> | Gets if the control supports drop operations from drag and drop. |
+| GetBackColor | <a href="turbine.ui.control">Control</a> | Gets the solid background color of the control. |
+| GetBackColorBlendMode | <a href="turbine.ui.control">Control</a> | Gets the blend mode applied to the background color. |
+| GetBackground | <a href="turbine.ui.control">Control</a> | Gets the background graphic of the control. |
+| GetBlendMode | <a href="turbine.ui.control">Control</a> | Gets the blend mode applied to the background image. |
+| GetControls | <a href="turbine.ui.control">Control</a> | Gets the list of child controls. |
+| GetHeight | <a href="turbine.ui.control">Control</a> | Gets the height of the control. |
+| GetLeft | <a href="turbine.ui.control">Control</a> | Gets the left coordinate of the control. |
+| GetMousePosition | <a href="turbine.ui.control">Control</a> | Gets the mouse position relative to this control. |
+| GetOpacity | <a href="turbine.ui.control">Control</a> | Gets the opacity of the window. |
+| GetParent | <a href="turbine.ui.control">Control</a> | Gets the parent of the control. |
+| GetPosition | <a href="turbine.ui.control">Control</a> | Gets the position of the control. |
+| GetShortcut | | Gets the shortcut on the quickslot. |
+| GetSize | <a href="turbine.ui.control">Control</a> | Gets the size of the control. |
+| GetTop | <a href="turbine.ui.control">Control</a> | Gets the top coordinate of the window. |
+| GetWantsKeyEvents | <a href="turbine.ui.control">Control</a> | Gets a flag indicating if the control wants to receive key events. |
+| GetWantsUpdates | <a href="turbine.ui.control">Control</a> | Gets the flag indicating if the control wants to receive Update notifications |
+| GetWidth | <a href="turbine.ui.control">Control</a> | Gets the width of the control. |
+| GetZOrder | <a href="turbine.ui.control">Control</a> | Gets the Z ordering index of the control. |
+| HasFocus | <a href="turbine.ui.control">Control</a> | Returns true if the control has focus. |
+| IsAltKeyDown | <a href="turbine.ui.control">Control</a> | Test if the alt key is pressed. |
+| IsControlKeyDown | <a href="turbine.ui.control">Control</a> | Test if the control key is pressed. |
+| IsDisplayed | <a href="turbine.ui.control">Control</a> | Gets a flag indicating if the control is displayed. |
+| IsEnabled | <a href="turbine.ui.control">Control</a> | Gets a flag indicating if the control is enabled. |
+| IsMouseVisible | <a href="turbine.ui.control">Control</a> | Gets a flag indicating if the mouse will see this control. |
+| IsShiftKeyDown | <a href="turbine.ui.control">Control</a> | Test if the shift key is pressed. |
+| IsUseOnRightClick | | Gets whether right clicks will activate the quickslot. |
+| IsVisible | <a href="turbine.ui.control">Control</a> | Gets a flag indicating if the control is visible. |
+| PointToClient | <a href="turbine.ui.control">Control</a> | Converts a coordinate from control space to screen space. |
+| PointToScreen | <a href="turbine.ui.control">Control</a> | Converts a coordinate from control space to screen space. |
+| SetAllowDrop | <a href="turbine.ui.control">Control</a> | Sets if the control supports drop operations from drag and drop. |
+| SetBackColor | <a href="turbine.ui.control">Control</a> | Sets the background color of the control. |
+| SetBackColorBlendMode | <a href="turbine.ui.control">Control</a> | Sets the blend mode applied to the background color. |
+| SetBackground | <a href="turbine.ui.control">Control</a> | Sets the background image of the control. |
+| SetBlendMode | <a href="turbine.ui.control">Control</a> | Sets the blend mode applied to the background image. |
+| SetEnabled | <a href="turbine.ui.control">Control</a> | Sets a flag indicating if the control is enabled. |
+| SetHeight | <a href="turbine.ui.control">Control</a> | Sets the height of the control. |
+| SetLeft | <a href="turbine.ui.control">Control</a> | Sets the left coordinate of the window. |
+| SetMouseVisible | <a href="turbine.ui.control">Control</a> | Gets a flag indicating if the mouse will see this control. |
+| SetOpacity | <a href="turbine.ui.control">Control</a> | Sets the opacity of the window. |
+| SetParent | <a href="turbine.ui.control">Control</a> | Sets the parent of the control. |
+| SetPosition | <a href="turbine.ui.control">Control</a> | Sets the position of the control. |
+| SetShortcut | | Sets the shortcut on the quickslot. |
+| SetSize | <a href="turbine.ui.control">Control</a> | Sets the size of the control. |
+| SetTop | <a href="turbine.ui.control">Control</a> | Sets the top coordinate of the window. |
+| SetUseOnRightClick | | Sets whether right clicks will activate the quickslot. |
+| SetVisible | <a href="turbine.ui.control">Control</a> | Sets the visible flag of a control. |
+| SetWantsKeyEvents | <a href="turbine.ui.control">Control</a> | Sets a flag indicating if the control wants to receive key events. |
+| SetWantsUpdates | <a href="turbine.ui.control">Control</a> | Sets the flag indicating if the control wants the receive update notifications. |
+| SetWidth | <a href="turbine.ui.control">Control</a> | Sets the width of the control. |
+| SetZOrder | <a href="turbine.ui.control">Control</a> | Sets the Z order of the control. |
 
 </details>
 
