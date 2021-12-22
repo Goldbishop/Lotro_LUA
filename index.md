@@ -1,5 +1,5 @@
 <hr/>
-<sub style="color:red; font-weight:bold">Beta Documentation - Subject to change.<sub>
+<sub style="color:red; font-weight:bold">Beta Documentation - Subject to change.</sub>
 
 ## Quirks ##
 <details>

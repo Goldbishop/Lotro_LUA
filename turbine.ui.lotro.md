@@ -1,6 +1,6 @@
 <a href="index">Home</a>
 <hr/>
-<sub style="color:red; font-weight:bold">Beta Documentation - Subject to change.<sub>
+<sub style="color:red; font-weight:bold">Beta Documentation - Subject to change.</sub>
 
 # `Turbine.UI.Lotro` Namespace
 The Lord of the Rings UI package
