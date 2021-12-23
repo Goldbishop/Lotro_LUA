@@ -16,7 +16,7 @@ This UI package contains the base classes for UI controls. These controls have n
 	<li>CheckBox</li>
 	<li>Color</li>
 	<li>ContextMenu</li>
-	<li>Control</li>
+	<li><a href="turbine.ui.control">Control</a></li>
 	<li>ControlList</li>
 	<li>Display</li> 
 	<li>DragDropInfo</li> 

@@ -132,7 +132,7 @@ This first couple of expansions are added to new bags (4-6) but afterwards the a
 	<li>Color</li>
 	<li>ContentAlignment</li>
 	<li>ContextMenu</li>
-	<li>Control</li>
+	<li><a href="turbine.ui.control">Control</a></li>
 	<li>ControlList</li>
 	<li>Display</li>
 	<li>DragDropInfo</li>
