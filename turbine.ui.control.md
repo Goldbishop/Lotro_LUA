@@ -1,4 +1,4 @@
-<a href="index">Home</a> > <a href="turbine.ui.lotro">Turbine.UI.Lotro</a>
+<a href="index">Home</a> > <a href="turbine.ui">Turbine.UI</a>
 
 <h1>Control Class</h1>
 <hr/>
