@@ -103,7 +103,7 @@ To use the Chat Object, you will need to `import "Turbine.UI.Lotro"` at the top 
 | MouseWheel | | Event fired when a mouse wheel moves. |
 | PositionChanged | | Event fired when the position of the control changes. |
 | SizeChanged | | Event fired when the size of the control changes. |
-| Update | | Event fired every frame when WantsUpdates is enabled. |
+| <a href="turbine.ui.control.update">Update</a> | | Event fired every frame when WantsUpdates is enabled. |
 | <a href="turbine.ui.control.visiblechanged">VisibleChanged</a> | | Event fired when the visible state of the control changes. | 
 
 </details>
