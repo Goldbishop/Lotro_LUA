@@ -1,6 +1,6 @@
 <a href="index">Home</a>
 
-<h1>Turbine.UI.Lotro Package</h1>
+<h1>Turbine.UI Package</h1>
 <hr/>
 <sub style="color:red; font-weight:bold">Beta Documentation - Subject to change.</sub>
 
